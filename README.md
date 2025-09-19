@@ -22,5 +22,5 @@ The model uses **content-based filtering** (K-means clustering) to recommend res
 ---
 
 ## 🚀 How to Run
-streamlit run recommender.py
+streamlit run app.py
 
